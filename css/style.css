@@ -1,0 +1,23 @@
+/* GENERICS */
+header {
+    height: 60px;
+    background-color: #2C3E50;
+}
+
+section {
+    min-height: 500px;
+}
+
+.card {
+    height: 100%;
+    background-color: #53BD9D;
+}
+
+.height-200{
+    height: 200px;
+}
+
+/* UTILITIES */
+.bg-green {
+    background-color: #53BD9D;
+}
