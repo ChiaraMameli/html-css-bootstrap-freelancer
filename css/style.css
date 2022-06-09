@@ -1,11 +1,6 @@
 /* GENERICS */
 header {
     height: 60px;
-    background-color: #2C3E50;
-}
-
-section {
-    min-height: 500px;
 }
 
 .card {
@@ -20,4 +15,16 @@ section {
 /* UTILITIES */
 .bg-green {
     background-color: #53BD9D;
+}
+
+.bg-dark {
+    background-color: #2C3E50;
+}
+
+.bg-blue {
+    background-color: #3A546D;
+}
+
+.bg-darkblue {
+    background-color: #2C3E50;
 }
