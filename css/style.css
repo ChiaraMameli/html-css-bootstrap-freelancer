@@ -13,25 +13,54 @@ header {
 }
 
 /* UTILITIES */
-.bg-green {
+._bg-green {
     background-color: #53BD9D;
 }
 
-.bg-dark {
+._bg-dark {
     background-color: #2C3E50;
 }
 
-.bg-blue {
+.text-dark {
+    color: #2C3E50;
+}
+
+._bg-darkblue {
     background-color: #3A546D;
 }
 
-.bg-darkblue {
+._bg-darkerblue {
     background-color: #2C3E50;
 }
 
+._bg-lightblue {
+    background-color: #43A4B6;
+}
+
+._bg-black {
+    background-color: #140F0F;
+}
+
+._bg-brightblue {
+    background-color: #2E83C1;
+}
+
+._bg-blue {
+    background-color: #0E38B5;
+}
+
+._bg-pink {
+    background-color: #CCB2A3;
+}
 
 /* JUMBOTRON */
 
 #jumbotron img {
     width: 18rem;
+}
+
+/* PORTFOLIO */
+
+#portfolio img {
+    max-width: 100%;
 }
