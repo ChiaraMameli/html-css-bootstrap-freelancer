@@ -1,18 +1,11 @@
 /* GENERICS */
-header {
-    height: 60px;
-}
 
-._card {
-    height: 100%;
-    background-color: #53BD9D;
-}
-
-.height-200{
-    height: 200px;
+a {
+    text-decoration: none;
 }
 
 /* UTILITIES */
+
 ._bg-green {
     background-color: #53BD9D;
 }
@@ -53,6 +46,14 @@ header {
     background-color: #CCB2A3;
 }
 
+._bg-white {
+    background-color: #FFF;
+}
+
+._h-0 {
+    height: 0px;
+}
+
 /* JUMBOTRON */
 
 #jumbotron img {
@@ -63,4 +64,22 @@ header {
 
 #portfolio img {
     max-width: 100%;
+}
+
+/* FOOTER */
+
+.circle {
+    height: 50px;
+    width: 50px;
+    border: 1px solid #FFF;
+    border-radius: 50%;
+}
+
+/* STARS */
+
+._bar {
+    display: inline-block;
+    width: 100px;
+    height: 3px;
+    margin-bottom: 5px;
 }
